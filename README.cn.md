@@ -4,7 +4,7 @@
 
 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-![Skill_Seekers](https://repo.x-cmd.io/Skill_Seekers.svg)
+![Skill_Seekers](https://repo.x-cmd.io/Skill_Seekers.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install Skill_Seekers
 
 - **最新版本**: `v3.9.1` (2026-08-03)
 - **最近提交**: 2026-08-09
-- **发布时间**: 2026-08-03T00:52:12Z
 
 ## 流行度
 
-- **Star**: 14,945 · **Fork**: 1,520 · **开放 issue**: 265 · **贡献者**: 49
+- **Star**: 14,947 · **Fork**: 1,520 · **开放 issue**: 265 · **贡献者**: 49
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ Skill_Seekers 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:27:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:09:33Z._
