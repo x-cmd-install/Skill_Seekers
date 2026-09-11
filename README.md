@@ -12,6 +12,18 @@ Convert documentation websites, GitHub repositories, and PDFs into Claude AI ski
 x install Skill_Seekers
 ```
 
+## Code insight
+
+Total: **412,627** lines of code across **2573** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Html | 245,920 | 87,429 | 493,417 | 1992 |
+| Python | 144,905 | 11,079 | 29,294 | 469 |
+| Yaml | 8,565 | 75 | 1,025 | 88 |
+| Css | 7,779 | 30 | 2,314 | 4 |
+| Json | 1,818 | 0 | 32 | 20 |
+
 ## Source
 
 - **Upstream**: <https://github.com/yusufkaraaslan/Skill_Seekers>
@@ -25,7 +37,7 @@ x install Skill_Seekers
 
 ## Popularity
 
-- **Stars**: 14,947 · **Forks**: 1,520 · **Open issues**: 265 · **Contributors**: 49
+- **Stars**: 14,952 · **Forks**: 1,520 · **Open issues**: 265 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -35,21 +47,12 @@ x install Skill_Seekers
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 9 | 1 | 4 | 0 |
-| 90d | 2026-06-12 | 3 | 27 | 10 | 4 | 4 | 45 |
-| 360d | 2025-09-15 | 34 | 112 | 10 | 217 | 48 | 759 |
-
-## Code size
-
-Total: **412,627** lines of code across **2573** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Html | 245,920 | 87,429 | 493,417 | 1992 |
-| Python | 144,905 | 11,079 | 29,294 | 469 |
-| Yaml | 8,565 | 75 | 1,025 | 88 |
-| Css | 7,779 | 30 | 2,314 | 4 |
-| Json | 1,818 | 0 | 32 | 20 |
+| 30d | 2026-08-12 | 0 | 0 | 9 | 1 | 3 | 0 |
+| last60d | 2026-07-13 | 2 | 19 | 10 | 3 | 4 | 37 |
+| 90d | 2026-06-13 | 3 | 27 | 10 | 4 | 4 | 45 |
+| last180d | 2026-03-15 | 9 | 61 | 10 | 38 | 7 | 158 |
+| 360d | 2025-09-16 | 34 | 112 | 10 | 217 | 48 | 759 |
+| last720d | 2024-09-21 | 34 | 112 | 10 | 217 | 48 | 818 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for Skill_Seekers lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:09:33Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:15:56Z._
