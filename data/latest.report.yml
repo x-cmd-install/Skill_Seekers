@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.9.1"
   latestRelease: "v3.9.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:09:24Z
+  collectedAt: 2026-09-11T00:15:38Z
 timeline:
   created: 2025-10-17
   lastCommit: 2026-08-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-03
   lastPrerelease: 
 popularity:
-  star: 14947
+  star: 14952
   watcher: 72
   fork: 1520
   release: 34
@@ -30,15 +30,15 @@ language:
 totalBytes: 6687561
 recent:
   last30d:
-    since: 2026-08-11
+    since: 2026-08-12
     release: 0
     mergedPR: 0
     openPR: 9
     closedIssue: 1
-    openIssue: 4
+    openIssue: 3
     commit: 0
   last60d:
-    since: 2026-07-12
+    since: 2026-07-13
     release: 2
     mergedPR: 19
     openPR: 10
@@ -46,7 +46,7 @@ recent:
     openIssue: 4
     commit: 37
   last90d:
-    since: 2026-06-12
+    since: 2026-06-13
     release: 3
     mergedPR: 27
     openPR: 10
@@ -54,7 +54,7 @@ recent:
     openIssue: 4
     commit: 45
   last180d:
-    since: 2026-03-14
+    since: 2026-03-15
     release: 9
     mergedPR: 61
     openPR: 10
@@ -62,7 +62,7 @@ recent:
     openIssue: 7
     commit: 158
   last360d:
-    since: 2025-09-15
+    since: 2025-09-16
     release: 34
     mergedPR: 112
     openPR: 10
@@ -70,7 +70,7 @@ recent:
     openIssue: 48
     commit: 759
   last720d:
-    since: 2024-09-20
+    since: 2024-09-21
     release: 34
     mergedPR: 112
     openPR: 10
@@ -86,7 +86,7 @@ total:
   commit: 818
 ---
 path: /home/runner/.x-repo/github.com/yusufkaraaslan/Skill_Seekers
-collectedAt: 2026-09-10T16:09:28Z
+collectedAt: 2026-09-11T00:15:43Z
 loc:
   Html:
     code: 245920
