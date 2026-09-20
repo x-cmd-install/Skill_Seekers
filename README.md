@@ -4,7 +4,7 @@
 
 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-![Skill_Seekers](https://repo.x-cmd.io/Skill_Seekers.svg)
+[![x-cmd/install — Skill_Seekers Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Skill_Seekers.svg)](https://x-cmd.com/install/Skill_Seekers)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **439,683** lines of code across **2684** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 14,994 · **Forks**: 1,527 · **Open issues**: 267 · **Contributors**: 50
+- **Stars**: 15,009 · **Forks**: 1,530 · **Open issues**: 267 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **439,683** lines of code across **2684** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 4 | 1 | 3 | 53 |
-| last60d | 2026-07-20 | 2 | 13 | 9 | 2 | 5 | 77 |
-| 90d | 2026-06-20 | 2 | 28 | 9 | 3 | 5 | 97 |
-| last180d | 2026-03-22 | 8 | 63 | 9 | 37 | 8 | 195 |
-| 360d | 2025-09-23 | 34 | 115 | 9 | 218 | 49 | 814 |
-| last720d | 2024-09-28 | 34 | 115 | 9 | 218 | 49 | 873 |
+| 30d | 2026-08-21 | 0 | 2 | 4 | 1 | 3 | 53 |
+| last60d | 2026-07-22 | 2 | 13 | 9 | 1 | 5 | 77 |
+| 90d | 2026-06-22 | 2 | 28 | 9 | 3 | 5 | 97 |
+| last180d | 2026-03-24 | 8 | 63 | 9 | 35 | 8 | 195 |
+| 360d | 2025-09-25 | 34 | 115 | 9 | 218 | 49 | 814 |
+| last720d | 2024-09-30 | 34 | 115 | 9 | 218 | 49 | 873 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Skill_Seekers lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:30:46Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:46:23Z._

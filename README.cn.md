@@ -4,7 +4,7 @@
 
 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-![Skill_Seekers](https://repo.x-cmd.io/Skill_Seekers.svg?lang=zh)
+[![x-cmd/install — Skill_Seekers Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Skill_Seekers.svg?lang=zh)](https://x-cmd.com/install/Skill_Seekers)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install Skill_Seekers
 
 ## 流行度
 
-- **Star**: 14,994 · **Fork**: 1,527 · **开放 issue**: 267 · **贡献者**: 50
+- **Star**: 15,009 · **Fork**: 1,530 · **开放 issue**: 267 · **贡献者**: 50
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install Skill_Seekers
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 4 | 1 | 3 | 53 |
-| last60d | 2026-07-20 | 2 | 13 | 9 | 2 | 5 | 77 |
-| 90d | 2026-06-20 | 2 | 28 | 9 | 3 | 5 | 97 |
-| last180d | 2026-03-22 | 8 | 63 | 9 | 37 | 8 | 195 |
-| 360d | 2025-09-23 | 34 | 115 | 9 | 218 | 49 | 814 |
-| last720d | 2024-09-28 | 34 | 115 | 9 | 218 | 49 | 873 |
+| 30d | 2026-08-21 | 0 | 2 | 4 | 1 | 3 | 53 |
+| last60d | 2026-07-22 | 2 | 13 | 9 | 1 | 5 | 77 |
+| 90d | 2026-06-22 | 2 | 28 | 9 | 3 | 5 | 97 |
+| last180d | 2026-03-24 | 8 | 63 | 9 | 35 | 8 | 195 |
+| 360d | 2025-09-25 | 34 | 115 | 9 | 218 | 49 | 814 |
+| last720d | 2024-09-30 | 34 | 115 | 9 | 218 | 49 | 873 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ Skill_Seekers 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:30:47Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:46:23Z._
