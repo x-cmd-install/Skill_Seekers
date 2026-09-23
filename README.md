@@ -4,7 +4,7 @@
 
 Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 
-[![x-cmd/install — Skill_Seekers Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Skill_Seekers.svg)](https://x-cmd.com/install/Skill_Seekers)
+[![x-cmd/install — Skill_Seekers Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Skill_Seekers.svg)](https://x-cmd.com/install/Skill_Seekers)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **442,043** lines of code across **2691** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,018 · **Forks**: 1,533 · **Open issues**: 267 · **Contributors**: 54
+- **Stars**: 15,022 · **Forks**: 1,532 · **Open issues**: 267 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **442,043** lines of code across **2691** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 7 | 0 | 2 | 2 | 45 |
-| last60d | 2026-07-24 | 2 | 23 | 0 | 3 | 3 | 87 |
-| 90d | 2026-06-24 | 2 | 35 | 0 | 5 | 3 | 107 |
-| last180d | 2026-03-26 | 7 | 73 | 0 | 37 | 5 | 192 |
-| 360d | 2025-09-27 | 34 | 125 | 0 | 221 | 46 | 824 |
-| last720d | 2024-10-02 | 34 | 125 | 0 | 221 | 46 | 883 |
+| 30d | 2026-08-24 | 0 | 7 | 0 | 2 | 2 | 45 |
+| last60d | 2026-07-25 | 2 | 23 | 0 | 3 | 3 | 87 |
+| 90d | 2026-06-25 | 2 | 35 | 0 | 5 | 3 | 107 |
+| last180d | 2026-03-27 | 7 | 72 | 0 | 34 | 5 | 192 |
+| 360d | 2025-09-28 | 34 | 125 | 0 | 221 | 46 | 824 |
+| last720d | 2024-10-03 | 34 | 125 | 0 | 221 | 46 | 883 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Skill_Seekers lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:41:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:37:12Z._
