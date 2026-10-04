@@ -37,7 +37,7 @@ Total: **442,049** lines of code across **2691** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,092 · **Forks**: 1,539 · **Open issues**: 266 · **Contributors**: 54
+- **Stars**: 15,096 · **Forks**: 1,540 · **Open issues**: 266 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **442,049** lines of code across **2691** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 7 | 1 | 1 | 2 | 47 |
-| last60d | 2026-08-04 | 1 | 12 | 1 | 3 | 3 | 67 |
-| 90d | 2026-07-05 | 3 | 33 | 1 | 5 | 3 | 107 |
-| last180d | 2026-04-06 | 8 | 68 | 1 | 25 | 3 | 188 |
-| 360d | 2025-10-08 | 35 | 125 | 1 | 220 | 46 | 827 |
-| last720d | 2024-10-13 | 35 | 125 | 1 | 220 | 46 | 887 |
+| 30d | 2026-09-04 | 1 | 7 | 1 | 1 | 2 | 47 |
+| last60d | 2026-08-05 | 1 | 12 | 1 | 3 | 3 | 67 |
+| 90d | 2026-07-06 | 3 | 33 | 1 | 5 | 3 | 107 |
+| last180d | 2026-04-07 | 8 | 68 | 1 | 24 | 3 | 188 |
+| 360d | 2025-10-09 | 35 | 125 | 1 | 220 | 46 | 827 |
+| last720d | 2024-10-14 | 35 | 125 | 1 | 220 | 46 | 887 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Skill_Seekers lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:08:20Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:40:49Z._
