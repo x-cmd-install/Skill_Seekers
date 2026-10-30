@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.10.0"
   latestRelease: "v3.10.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:33:37Z
+  collectedAt: 2026-10-30T05:33:52Z
 timeline:
   created: 2025-10-17
   lastCommit: 2026-09-30
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-30
   lastPrerelease: 
 popularity:
-  star: 15246
-  watcher: 70
-  fork: 1545
+  star: 15255
+  watcher: 69
+  fork: 1546
   release: 35
   contributor: 54
-  pullRequest: 174
+  pullRequest: 176
   issue: 267
 language:
   Python: 7078986
@@ -34,63 +34,63 @@ language:
 totalBytes: 7704877
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 1
     mergedPR: 0
-    openPR: 3
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 1
     mergedPR: 7
-    openPR: 4
+    openPR: 6
     closedIssue: 1
     openIssue: 2
     commit: 47
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 2
     mergedPR: 20
-    openPR: 4
+    openPR: 6
     closedIssue: 3
     openIssue: 3
     commit: 73
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 6
-    mergedPR: 58
-    openPR: 4
+    mergedPR: 55
+    openPR: 6
     closedIssue: 14
     openIssue: 3
     commit: 158
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 30
     mergedPR: 111
-    openPR: 4
+    openPR: 6
     closedIssue: 100
     openIssue: 14
     commit: 711
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 35
     mergedPR: 125
-    openPR: 4
+    openPR: 6
     closedIssue: 220
     openIssue: 47
     commit: 887
 total:
   release: 35
   mergedPR: 125
-  openPR: 4
+  openPR: 6
   closedIssue: 220
   openIssue: 47
   commit: 887
 ---
 path: /home/runner/.x-repo/github.com/yusufkaraaslan/Skill_Seekers
-collectedAt: 2026-10-29T05:33:42Z
+collectedAt: 2026-10-30T05:33:56Z
 loc:
   Html:
     code: 245932
