@@ -14,15 +14,15 @@ x install Skill_Seekers
 
 ## Code insight
 
-Total: **442,049** lines of code across **2691** files in the top 5 languages.
+Total: **444,523** lines of code across **2706** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Html | 245,932 | 87,429 | 493,417 | 1993 |
-| Python | 154,882 | 11,332 | 30,976 | 510 |
+| Html | 245,973 | 87,429 | 493,417 | 1995 |
+| Python | 157,314 | 11,372 | 31,382 | 523 |
 | Tsx | 11,346 | 259 | 909 | 74 |
 | Json | 8,649 | 0 | 32 | 26 |
-| Yaml | 8,565 | 75 | 1,025 | 88 |
+| Yaml | 8,563 | 75 | 1,023 | 88 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **442,049** lines of code across **2691** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.10.0` (2026-09-30)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 15,324 · **Forks**: 1,562 · **Open issues**: 270 · **Contributors**: 54
+- **Stars**: 15,325 · **Forks**: 1,564 · **Open issues**: 270 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 125 · **Open PRs**: 14 · **Closed issues**: 220 · **Open issues**: 50 · **Commits**: 887
+- **Releases**: 35 · **Merged PRs**: 140 · **Open PRs**: 0 · **Closed issues**: 221 · **Open issues**: 49 · **Commits**: 934
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 11 | 0 | 4 | 0 |
-| last60d | 2026-09-17 | 1 | 2 | 14 | 0 | 4 | 3 |
-| 90d | 2026-08-18 | 1 | 7 | 14 | 2 | 6 | 66 |
-| last180d | 2026-05-20 | 5 | 55 | 14 | 12 | 7 | 155 |
-| 360d | 2025-11-21 | 29 | 108 | 14 | 92 | 17 | 682 |
-| last720d | 2024-11-26 | 35 | 125 | 14 | 220 | 50 | 887 |
+| 30d | 2026-10-18 | 0 | 12 | 0 | 1 | 3 | 14 |
+| last60d | 2026-09-18 | 1 | 17 | 0 | 1 | 3 | 23 |
+| 90d | 2026-08-19 | 1 | 22 | 0 | 3 | 5 | 86 |
+| last180d | 2026-05-21 | 5 | 69 | 0 | 12 | 6 | 175 |
+| 360d | 2025-11-22 | 29 | 123 | 0 | 93 | 16 | 702 |
+| last720d | 2024-11-27 | 35 | 140 | 0 | 221 | 49 | 934 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for Skill_Seekers lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:21:58Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:54:21Z._
