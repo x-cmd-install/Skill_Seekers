@@ -1,0 +1,182 @@
+about:
+  description: "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection"
+  license: MIT
+  homepage: https://skillseekersweb.com/
+  head: 4aed911
+  archived: false
+  latestVersion: "v3.11.0"
+  latestRelease: "v3.11.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:32:50Z
+timeline:
+  created: 2025-10-17
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 
+popularity:
+  star: 15378
+  watcher: 69
+  fork: 1572
+  release: 36
+  contributor: 60
+  pullRequest: 192
+  issue: 272
+language:
+  Python: 7206513
+  TypeScript: 548972
+  Shell: 63308
+  CSS: 5539
+  JavaScript: 3938
+  Dockerfile: 2169
+  Go Template: 1668
+  HTML: 297
+totalBytes: 7832404
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 10
+    openPR: 6
+    closedIssue: 1
+    openIssue: 5
+    commit: 12
+  last60d:
+    since: 2026-09-29
+    release: 2
+    mergedPR: 15
+    openPR: 6
+    closedIssue: 1
+    openIssue: 5
+    commit: 25
+  last90d:
+    since: 2026-08-30
+    release: 2
+    mergedPR: 23
+    openPR: 6
+    closedIssue: 2
+    openIssue: 7
+    commit: 70
+  last180d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 65
+    openPR: 6
+    closedIssue: 11
+    openIssue: 8
+    commit: 146
+  last360d:
+    since: 2025-12-03
+    release: 29
+    mergedPR: 123
+    openPR: 6
+    closedIssue: 88
+    openIssue: 17
+    commit: 683
+  last720d:
+    since: 2024-12-08
+    release: 36
+    mergedPR: 141
+    openPR: 6
+    closedIssue: 221
+    openIssue: 51
+    commit: 937
+total:
+  release: 36
+  mergedPR: 141
+  openPR: 6
+  closedIssue: 221
+  openIssue: 51
+  commit: 937
+---
+path: /home/runner/.x-repo/github.com/yusufkaraaslan/Skill_Seekers
+collectedAt: 2026-11-28T07:32:53Z
+loc:
+  Html:
+    code: 245973
+    comments: 87429
+    blanks: 493417
+    files: 1995
+  Python:
+    code: 157533
+    comments: 11357
+    blanks: 31394
+    files: 523
+  Tsx:
+    code: 11346
+    comments: 259
+    blanks: 909
+    files: 74
+  Json:
+    code: 8649
+    comments: 0
+    blanks: 32
+    files: 26
+  Yaml:
+    code: 8563
+    comments: 75
+    blanks: 1023
+    files: 88
+  Css:
+    code: 7995
+    comments: 32
+    blanks: 2337
+    files: 7
+  JavaScript:
+    code: 1749
+    comments: 364
+    blanks: 553
+    files: 8
+  Sh:
+    code: 1433
+    comments: 241
+    blanks: 228
+    files: 8
+  TypeScript:
+    code: 982
+    comments: 88
+    blanks: 132
+    files: 12
+  Toml:
+    code: 373
+    comments: 41
+    blanks: 59
+    files: 1
+  Pan:
+    code: 55
+    comments: 0
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 40
+    comments: 17
+    blanks: 18
+    files: 1
+  Ini:
+    code: 30
+    comments: 1
+    blanks: 2
+    files: 2
+  Svg:
+    code: 21
+    comments: 0
+    blanks: 0
+    files: 21
+  Markdown:
+    code: 0
+    comments: 56002
+    blanks: 23979
+    files: 302
+  Text:
+    code: 0
+    comments: 344
+    blanks: 76
+    files: 17
+total:
+  code: 475853
+  comments: 164386
+  blanks: 561106
+  files: 3086
+---
+
+---
